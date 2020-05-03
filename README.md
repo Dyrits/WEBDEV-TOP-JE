@@ -20,6 +20,10 @@ The first exercise, `helloWorld` will walk you through the process in more depth
 
 Solutions for these exercises can be found in this repo on the 'solutions' branch.
 
+## My solutions
+
+My solutions for these exercises can be found in this repo on the 'dyrits-solutions' branch.
+
 ## a quick note!
 
 The generator exercise is not actually an exercise… it is a script that generates exercises. I was using it when I wrote them so I didn’t have to hack out the same boilerplate code every time I wrote a new one.
