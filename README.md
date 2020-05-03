@@ -20,9 +20,9 @@ The first exercise, `helloWorld` will walk you through the process in more depth
 
 Solutions for these exercises can be found in this repo on the 'solutions' branch.
 
-## Dyrits's solutions
+## My solutions
 
-Dyrits's solutions for these exercises can be found in this branch.
+My solutions for these exercises can be found in this branch.
 
 ## A quick note!
 
