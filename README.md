@@ -18,7 +18,7 @@ The first exercise, `helloWorld` will walk you through the process in more depth
 
 ## Solutions
 
-Solutions for these exercises can be found in this repo on the 'solutions' branch.
+Solutions for these exercises can be found in the original repository on the 'solutions' branch.
 
 ## My solutions
 
