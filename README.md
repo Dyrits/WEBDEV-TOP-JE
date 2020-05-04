@@ -18,11 +18,11 @@ The first exercise, `helloWorld` will walk you through the process in more depth
 
 ## Solutions
 
-Solutions for these exercises can be found in this repo on the 'solutions' branch.
+Solutions for these exercises can be found in the original repository on the 'solutions' branch.
 
 ## My solutions
 
-My solutions for these exercises can be found in this repo on the 'dyrits-solutions' branch.
+My solutions for these exercises can be found in this repository on the 'dyrits-solutions' branch.
 
 ## A quick note!
 
