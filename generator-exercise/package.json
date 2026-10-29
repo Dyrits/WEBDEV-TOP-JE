@@ -53,6 +53,6 @@
   "repository": "git@github.com:TheOdinProject/javascript-exercises.git",
   "license": "MIT",
   "overrides": {
-    "handlebars": "4.7.8"
+    "handlebars": "4.7.10"
   }
 }
