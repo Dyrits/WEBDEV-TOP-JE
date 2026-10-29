@@ -32,12 +32,16 @@
     "yosay": "^2.0.0"
   },
   "jest": {
-    "testEnvironment": "node"
+    "testEnvironment": "node",
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      "/generators/app/templates/"
+    ]
   },
   "scripts": {
     "prepublish": "nsp check",
     "pretest": "eslint . --fix",
-    "test": "jest"
+    "test": "node node_modules/jest-cli/bin/jest.js --runInBand"
   },
   "eslintConfig": {
     "extends": "xo-space",
@@ -47,5 +51,8 @@
     }
   },
   "repository": "git@github.com:TheOdinProject/javascript-exercises.git",
-  "license": "MIT"
+  "license": "MIT",
+  "overrides": {
+    "handlebars": "4.7.8"
+  }
 }
